@@ -12,7 +12,7 @@ Continuos navigation and obstacle avoidance in 3D space with obstacles, tunnels 
 ## Frontier Exploration
 Coordinated exploration of a gridworld by 2 agents to maximise exploration.
 
-##Collision Cone
+## Collision Cone
 Simulation of ship collision given initial conditions.
 
 ## Velocity Obstacle
